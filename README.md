@@ -1,16 +1,11 @@
 # shop_app
 
-A new Flutter application.
 
-## Getting Started
+![1111111](https://user-images.githubusercontent.com/7110339/58487358-1cbd5080-8170-11e9-97df-8b9a1a18e669.png)
+![2222222](https://user-images.githubusercontent.com/7110339/58487367-21820480-8170-11e9-8558-25e545ba598c.png)
+![11111w11](https://user-images.githubusercontent.com/7110339/58487369-221a9b00-8170-11e9-9688-3903de0dc747.png)
+![222w2222](https://user-images.githubusercontent.com/7110339/58487374-234bc800-8170-11e9-93ee-6adaf58961a3.png)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+## Questions?🤔
+Hit me on [![Linkedin](https://img.shields.io/badge/Linkedin-Emre%20Karataş-blue.svg)](https://www.linkedin.com/in/emre-karata%C5%9F-062b26a9/)  [![Facebook](https://img.shields.io/badge/Facebook-Emre%20Karataş-blue.svg)](https://www.facebook.com/emre.karatas.311)
